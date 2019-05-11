@@ -64,7 +64,7 @@ class StartCest
     {
         $I -> wantToTest('I want to edit booking');
         $I = new SortSteps($scenario);
-        $I -> doEdit($this->tableID, $this->numOfPerson, $this->startTime, $this->description, $this->startTime);
+        $I -> doEdit($this->tableID, $this->numOfPerson, $this->date, $this->description, $this->startTime);
     }
 
     /**

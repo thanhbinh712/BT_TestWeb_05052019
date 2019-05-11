@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24dba23f-afe9-48e1-99ce-12c96b150654" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_support/Page/Acceptance/BookingPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/Page/Acceptance/BookingPage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_support/Page/Acceptance/SortPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/Page/Acceptance/SortPage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_support/Page/Acceptance/StartPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/Page/Acceptance/StartPage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_support/Step/Acceptance/StartSteps.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/Step/Acceptance/StartSteps.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_support/_generated/AcceptanceTesterActions.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/_generated/AcceptanceTesterActions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/acceptance/StartCest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/StartCest.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/acceptance/StartCest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="-270">
+              <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
               <folding>
                 <element signature="e#6#36#0#PHP" expanded="true" />
               </folding>
@@ -81,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/acceptance/BookingCest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-411">
-              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+            <state relative-caret-position="-219">
+              <caret line="125" column="23" lean-forward="true" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
               <folding>
                 <element signature="e#7#40#0#PHP" expanded="true" />
               </folding>
@@ -338,16 +332,15 @@
       <updated>1557454390422</updated>
       <workItem from="1557454392499" duration="15450000" />
       <workItem from="1557492333583" duration="6655000" />
-      <workItem from="1557502550250" duration="9079000" />
+      <workItem from="1557502550250" duration="10164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31184000" />
+    <option name="totallyTimeSpent" value="32269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -445,22 +438,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/BookingCest.php">
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/StartCest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-411">
-          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        <state relative-caret-position="-270">
+          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
           <folding>
-            <element signature="e#7#40#0#PHP" expanded="true" />
+            <element signature="e#6#36#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/StartCest.php">
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/BookingCest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="-219">
+          <caret line="125" column="23" lean-forward="true" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
           <folding>
-            <element signature="e#6#36#0#PHP" expanded="true" />
+            <element signature="e#7#40#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
