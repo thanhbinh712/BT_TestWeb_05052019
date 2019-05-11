@@ -28,7 +28,14 @@ class BookingPage
      * @var string
      */
     public static $startTime = '//input[@name="startTime"]';
-
+    /**
+     * @var string
+     */
+    public static $addButton = '//input[@value="add/edit"]';
+    /**
+     * @var string
+     */
+    public static $clear = '//a[text()="clear"]';
     /**
      * Declare UI map for this page here. CSS or XPath allowed.
      * public static $usernameField = '#username';

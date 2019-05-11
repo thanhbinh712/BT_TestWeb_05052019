@@ -6,7 +6,7 @@ class StartSteps extends \AcceptanceTester
     /**
      * @throws \Exception
      */
-    public function newReservation()
+    public function checkCreateReservation()
     {
         $I = $this;
         $I -> amOnPage(StartPage::$URL);

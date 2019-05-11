@@ -8,11 +8,11 @@ class StartPage
     /**
      * @var string
      */
-    public static $newReservation = '//a[@href="index.newreservation"]';
+    public static $newReservation = '//a[text()="New Reservation"]';
     /**
      * @var string
      */
-    public static $reloadData = '//a[@href="index.reload"]';
+    public static $reloadData = '//a[text()="Reload Data"]';
     /**
      * @var string
      */
